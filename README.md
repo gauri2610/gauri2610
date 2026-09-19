@@ -36,6 +36,12 @@ Android application developed using **Java and Android Studio** for managing exp
 
 🔗 [View Project](https://github.com/gauri2610/smart-expense-tracker)
 
+🧠 **Quiz Application**
+Android quiz application developed using **Java and Android Studio**, featuring multiple quiz categories, timer, score tracking and an interactive user interface.
+
+🔗 [View Project](https://github.com/gauri2610/Quiz-Applicationapp)
+
+
 
 ### 📫 Connect With Me
 

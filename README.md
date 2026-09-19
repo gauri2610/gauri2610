@@ -47,6 +47,9 @@ Android quiz application developed using **Java and Android Studio**, featuring 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gauri2610\&theme=default)
 
+### 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauri2610\&layout=compact\&theme=default)
 
 ### 📫 Connect With Me
 

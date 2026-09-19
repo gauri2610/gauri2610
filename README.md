@@ -24,12 +24,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 📱 **Smart Expense Tracker**
-An Android application developed using **Java and Android Studio** for managing expenses, income, budgets and financial analysis.
+Android application developed using **Java and Android Studio** for managing expenses, income, budgets and financial analysis.
 
 🔗 [View Project](https://github.com/gauri2610/smart-expense-tracker)
+
 
 ### 📫 Connect With Me
 

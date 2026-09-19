@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Gauri Wankhede 👋
 
-<!--
-**gauri2610/gauri2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BE Computer Engineering Student | SPPU, Pune**
 
-Here are some ideas to get you started:
+💻 Interested in **Software Development, Android Development, Web Development & AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+* Java
+* Python
+* HTML & CSS
+* Android Studio
+* XML
+* Git & GitHub
+* Web Development
+
+### 🚀 Featured Project
+
+📱 **Smart Expense Tracker**
+An Android application developed using **Java and Android Studio** for managing expenses, income, budgets and financial analysis.
+
+🔗 [View Project](https://github.com/gauri2610/smart-expense-tracker)
+
+### 📫 Connect With Me
+
+* GitHub: [@gauri2610](https://github.com/gauri2610)

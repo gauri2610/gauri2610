@@ -24,3 +24,4 @@ An Android application developed using **Java and Android Studio** for managing 
 ### 📫 Connect With Me
 
 * GitHub: [@gauri2610](https://github.com/gauri2610)
+* LinkedIn: [Gauri Wankhede](https://www.linkedin.com/in/gauri-wankhede-0b70513b2/)

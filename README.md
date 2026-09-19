@@ -9,10 +9,15 @@
 * Java
 * Python
 * HTML & CSS
+* JavaScript
+* SQL
 * Android Studio
 * XML
+* Django
 * Git & GitHub
 * Web Development
+* Android Development
+
 
 ### 💻 Technologies
 

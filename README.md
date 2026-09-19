@@ -41,6 +41,11 @@ Android quiz application developed using **Java and Android Studio**, featuring 
 
 🔗 [View Project](https://github.com/gauri2610/Quiz-Applicationapp)
 
+### 📊 GitHub Stats
+
+![Gauri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauri2610\&show_icons=true\&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gauri2610\&theme=default)
 
 
 ### 📫 Connect With Me
